@@ -1,2 +1,2 @@
 # failai
-Visi failai
+ visi failai
